@@ -1,0 +1,5 @@
+/js/bundle.js
+/js/bundle.min.js
+.idea
+node_modules
+npm-debug.log
